@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MWZi9oqayFEdORE39VQvBgiBdLHmBRymg5kHJG5zVOE=",
+  "Source": "s3demo",
+  "BasePath": "_content/s3demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

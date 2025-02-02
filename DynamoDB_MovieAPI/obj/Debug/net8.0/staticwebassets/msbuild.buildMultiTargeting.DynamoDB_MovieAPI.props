@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DynamoDB_MovieAPI.props" />
+</Project>
