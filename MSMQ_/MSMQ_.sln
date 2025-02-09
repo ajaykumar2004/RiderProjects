@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_MessageWriter", "MSMQ_MessageWriter\MSMQ_MessageWriter.csproj", "{B829D47B-EBB0-419F-A256-5640370373FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_MessageReader", "MSMQ_MessageReader\MSMQ_MessageReader.csproj", "{FAFF8036-E84C-4C4B-84F5-6676931507CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B829D47B-EBB0-419F-A256-5640370373FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B829D47B-EBB0-419F-A256-5640370373FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B829D47B-EBB0-419F-A256-5640370373FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B829D47B-EBB0-419F-A256-5640370373FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFF8036-E84C-4C4B-84F5-6676931507CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFF8036-E84C-4C4B-84F5-6676931507CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFF8036-E84C-4C4B-84F5-6676931507CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFF8036-E84C-4C4B-84F5-6676931507CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
