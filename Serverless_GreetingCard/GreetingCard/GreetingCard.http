@@ -1,0 +1,6 @@
+@GreetingCard_HostAddress = http://localhost:5253
+
+GET {{GreetingCard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

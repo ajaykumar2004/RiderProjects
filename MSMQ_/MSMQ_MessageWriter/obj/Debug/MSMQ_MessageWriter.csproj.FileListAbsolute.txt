@@ -1,0 +1,6 @@
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\bin\Debug\MSMQ_MessageWriter.exe
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\bin\Debug\MSMQ_MessageWriter.pdb
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\obj\Debug\MSMQ_MessageWriter.csproj.AssemblyReference.cache
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\obj\Debug\MSMQ_MessageWriter.csproj.CoreCompileInputs.cache
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\obj\Debug\MSMQ_MessageWriter.exe
+D:\RiderProjects\MSMQ_\MSMQ_MessageWriter\obj\Debug\MSMQ_MessageWriter.pdb

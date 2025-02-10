@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lSJUfMHMcHNfrhbyRihhqJiz/qiYgvK0Q1/ODxpPHJc=",
+  "Source": "DynamoDB_MovieAPI",
+  "BasePath": "_content/DynamoDB_MovieAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

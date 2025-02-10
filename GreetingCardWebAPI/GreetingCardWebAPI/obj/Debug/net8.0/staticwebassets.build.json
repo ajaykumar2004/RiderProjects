@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vC03syc3lpX1IOAQBIVeotl/zDSWjJ+VB7o6W8xHu6I=",
+  "Source": "GreetingCardWebAPI",
+  "BasePath": "_content/GreetingCardWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
