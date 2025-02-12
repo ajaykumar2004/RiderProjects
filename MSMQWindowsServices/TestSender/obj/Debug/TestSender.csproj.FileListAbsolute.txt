@@ -1,0 +1,6 @@
+D:\RiderProjects\MSMQWindowsServices\TestSender\bin\Debug\TestSender.exe
+D:\RiderProjects\MSMQWindowsServices\TestSender\bin\Debug\TestSender.pdb
+D:\RiderProjects\MSMQWindowsServices\TestSender\obj\Debug\TestSender.csproj.AssemblyReference.cache
+D:\RiderProjects\MSMQWindowsServices\TestSender\obj\Debug\TestSender.csproj.CoreCompileInputs.cache
+D:\RiderProjects\MSMQWindowsServices\TestSender\obj\Debug\TestSender.exe
+D:\RiderProjects\MSMQWindowsServices\TestSender\obj\Debug\TestSender.pdb

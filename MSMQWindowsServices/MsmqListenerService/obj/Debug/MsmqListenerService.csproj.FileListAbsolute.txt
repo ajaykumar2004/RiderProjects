@@ -1,0 +1,6 @@
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Debug\MsmqListenerService.exe
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Debug\MsmqListenerService.pdb
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\obj\Debug\MsmqListenerService.csproj.AssemblyReference.cache
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\obj\Debug\MsmqListenerService.csproj.CoreCompileInputs.cache
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\obj\Debug\MsmqListenerService.exe
+D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\obj\Debug\MsmqListenerService.pdb
