@@ -1,0 +1,35 @@
+﻿Installing assembly 'D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe
+   logfile = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.InstallLog
+Installing service MSMQListenerService...
+Creating EventLog source MSMQListenerService in log Application...
+Rolling back assembly 'D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe
+   logfile = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.InstallLog
+Restoring event log to previous state for source MSMQListenerService.
+Uninstalling assembly 'D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe
+   logfile = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.InstallLog
+Removing EventLog source MSMQListenerService.
+Warning: The source MSMQListenerService is not registered on the local machine.
+Service MSMQListenerService is being removed from the system...
+Service MSMQListenerService was successfully removed from the system.
+Installing assembly 'D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe
+   logfile = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.InstallLog
+Installing service MSMQListenerService...
+Service MSMQListenerService has been successfully installed.
+Creating EventLog source MSMQListenerService in log Application...
+Committing assembly 'D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.exe
+   logfile = D:\RiderProjects\MSMQWindowsServices\MsmqListenerService\bin\Release\MsmqListenerService.InstallLog
