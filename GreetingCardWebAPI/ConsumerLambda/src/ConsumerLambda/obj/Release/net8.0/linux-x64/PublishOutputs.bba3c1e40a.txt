@@ -1,0 +1,16 @@
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\ConsumerLambda.deps.json
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\ConsumerLambda.runtimeconfig.json
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\ConsumerLambda.pdb
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Microsoft.Extensions.Primitives.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+D:\RiderProjects\GreetingCardWebAPI\ConsumerLambda\src\ConsumerLambda\bin\Release\net8.0\publish\ConsumerLambda.dll
