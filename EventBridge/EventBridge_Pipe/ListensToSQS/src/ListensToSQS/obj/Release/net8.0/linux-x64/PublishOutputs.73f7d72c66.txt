@@ -1,0 +1,7 @@
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\ListensToSQS.deps.json
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\ListensToSQS.runtimeconfig.json
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\ListensToSQS.pdb
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+D:\RiderProjects\ListensToSQS\ListensToSQS\src\ListensToSQS\bin\Release\net8.0\publish\ListensToSQS.dll
